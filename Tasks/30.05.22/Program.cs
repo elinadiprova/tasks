@@ -22,7 +22,9 @@ namespace _30._05._22
             //Nine();
             //Ten();
             //Eleven();
-            Twelve();
+            //Twelve();
+            //Thirteen();
+            Fouthteen();
         }
 
 
@@ -316,6 +318,46 @@ namespace _30._05._22
         }
         #endregion
 
+        #region Thirteen with List
+        // Вывести в порядке возрастания цифры, входящие в десятичную запись натурального числа N.
+        static void Thirteen()
+        {
+            int number = 5479108;
+            int[] array = new int[] {};
+            List<int> list = new List<int>();
+            Console.WriteLine(number);
+            while (number > 0)
+            {
+                list.Add(number % 10);
+                number /= 10;
+            }
+            list.Sort();
+            list.ForEach(e => Console.Write($"{e} "));
+        }
+        #endregion
 
+        #region Fouthteen
+        //Из одномерного массива удалить все повторяющиеся элементы (дубликаты) так, чтобы каждое значение встречалось в массиве только один раз.
+        static void Fouthteen()
+        {
+            int[] array = new int[] { -327, 381, -327, 918, -212, -848, -770, 363, 416, 381 };
+            int[] test = array.Distinct().ToArray();
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write($"{array[i]} ");
+            }
+            Console.WriteLine();    
+            for (int i = 0; i < test.Length; i++)
+            {
+                Console.Write($"{test[i]} ");
+            }
+        }
+        #endregion
+
+        #region Fifteen
+        //Из одномерного массива удалить все повторяющиеся элементы (дубликаты) так, чтобы каждое значение встречалось в массиве только один раз.
+        //With second array or resize array
+
+        #endregion
     }
 }
