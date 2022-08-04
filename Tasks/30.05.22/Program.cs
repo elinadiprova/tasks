@@ -24,7 +24,7 @@ namespace _30._05._22
             //Eleven();
             //Twelve();
             //Thirteen();
-            Fouthteen();
+            //Fouthteen();
         }
 
 

@@ -1,0 +1,16 @@
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.exe
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.deps.json
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.runtimeconfig.json
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.runtimeconfig.dev.json
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.dll
+C:\tasks\Tasks\Items\bin\Debug\net5.0\ref\Items.dll
+C:\tasks\Tasks\Items\bin\Debug\net5.0\Items.pdb
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.AssemblyInfoInputs.cache
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.AssemblyInfo.cs
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.csproj.CoreCompileInputs.cache
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.dll
+C:\tasks\Tasks\Items\obj\Debug\net5.0\ref\Items.dll
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.pdb
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.genruntimeconfig.cache
+C:\tasks\Tasks\Items\obj\Debug\net5.0\Items.csproj.AssemblyReference.cache

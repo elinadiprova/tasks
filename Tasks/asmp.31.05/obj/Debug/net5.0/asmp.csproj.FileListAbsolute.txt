@@ -1,0 +1,16 @@
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.exe
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.deps.json
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.runtimeconfig.json
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.runtimeconfig.dev.json
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.dll
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\ref\asmp.dll
+C:\tasks\Tasks\asmp.31.05\bin\Debug\net5.0\asmp.pdb
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.AssemblyInfoInputs.cache
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.AssemblyInfo.cs
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.csproj.CoreCompileInputs.cache
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.dll
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\ref\asmp.dll
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.pdb
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.genruntimeconfig.cache
+C:\tasks\Tasks\asmp.31.05\obj\Debug\net5.0\asmp.csproj.AssemblyReference.cache

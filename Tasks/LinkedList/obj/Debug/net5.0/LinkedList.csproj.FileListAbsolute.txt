@@ -1,0 +1,16 @@
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.exe
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.json
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.dev.json
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.dll
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\ref\LinkedList.dll
+C:\tasks\Tasks\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.dll
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+C:\tasks\Tasks\LinkedList\obj\Debug\net5.0\LinkedList.genruntimeconfig.cache

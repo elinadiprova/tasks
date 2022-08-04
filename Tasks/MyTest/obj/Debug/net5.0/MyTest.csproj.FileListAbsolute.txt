@@ -1,0 +1,16 @@
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.exe
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.deps.json
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.runtimeconfig.json
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.runtimeconfig.dev.json
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.dll
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\ref\MyTest.dll
+C:\tasks\Tasks\MyTest\bin\Debug\net5.0\MyTest.pdb
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.AssemblyInfoInputs.cache
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.AssemblyInfo.cs
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.csproj.CoreCompileInputs.cache
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.dll
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\ref\MyTest.dll
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.pdb
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.genruntimeconfig.cache
+C:\tasks\Tasks\MyTest\obj\Debug\net5.0\MyTest.csproj.AssemblyReference.cache

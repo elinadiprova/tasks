@@ -1,0 +1,16 @@
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.exe
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.deps.json
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.json
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.dev.json
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.dll
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\ref\Recursion.dll
+C:\tasks\Tasks\Recursion\bin\Debug\net5.0\Recursion.pdb
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfoInputs.cache
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfo.cs
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.csproj.CoreCompileInputs.cache
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.dll
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\ref\Recursion.dll
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.pdb
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.genruntimeconfig.cache
+C:\tasks\Tasks\Recursion\obj\Debug\net5.0\Recursion.csproj.AssemblyReference.cache
